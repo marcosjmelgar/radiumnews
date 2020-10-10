@@ -1,3 +1,42 @@
-.probando {
-    color:red;
-}
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.15;
+    color: #262626;
+       }
+*{
+    margin-left: 0px;
+    margin-right: 0px;
+ }
+ .nectargan {
+     height: 60px;
+     width: 60px;
+ }
+ .nectarimage > .nectargan {border-radius: 50%;}
+ 
+ .nectar-gan > figure {
+     float: left;
+ }
+ .firstspan {
+     vertical-align: 40px;
+     text-decoration: none;
+ }
+ .firstdescription {
+     color: #737373;
+     font-size: 12px;
+     font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+ }
+ .firstparagraph {
+     color: #595959;
+     font-size: 16px;
+     padding: 0px 0px 15px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ .everyp {
+     color: #262626;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-bottom: 15px;
+ }
