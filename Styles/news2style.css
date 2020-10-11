@@ -5,10 +5,10 @@
     line-height: 1.15;
     color: #262626;
        }
-*{
-    margin-left: 0px;
-    margin-right: 0px;
- }
+.newsbody {
+    margin-left:200px;
+    margin-right:500px;
+}
  .nectargan {
      height: 60px;
      width: 60px;
@@ -19,24 +19,142 @@
      float: left;
  }
  .firstspan {
-     vertical-align: 40px;
+     vertical-align: 10px;
      text-decoration: none;
  }
+ .nectar-gan{
+     display: inline-block;
+     margin: 0px;
+     padding:0px;
+ }
+ .nectartext{
+     display: inline-block;
+     margin: 0px;
+     padding:0px;
+ }
+ .nectarp{
+     margin: 0px;
+     padding:0px;
+ }
+
  .firstdescription {
      color: #737373;
      font-size: 12px;
      font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
  }
+ .firstspan {
+     color:#737373;
+     font-size:16px;
+     font-weight:bolder;
+ }
  .firstparagraph {
      color: #595959;
      font-size: 16px;
      padding: 0px 0px 15px;
      font-family: Arial, Helvetica, sans-serif;
+     margin-top:80px;
  }
+ .secondparagraph {
+    color: #595959;
+    font-size: 16px;
+    padding: 0px 0px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:10px;
+ }
+    .thirdparagraph {
+            color: #595959;
+            font-size: 16px;
+            padding: 0px 0px 15px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top:10px;
+    }
  .everyp {
      color: #262626;
      font-size: 18px;
      font-family: Arial, Helvetica, sans-serif;
      margin-bottom: 15px;
+     line-height: 1.6667;
  }
+ .everyl {
+     color: #006598;
+     text-decoration: none;
+ }
+ a:hover{
+     color:red;
+ }
+ hr {
+     width: 80px;
+     margin-left: 0px;
+ }
+ h2 {
+     padding-top: 8px 0px 0px;
+     font-weight: 300px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: #262626;
+     font-size:32px;
+ }
+ .vaccineleft {
+     float: left;
+     margin: 10px 30px 30px 0px;
+     padding-right: 20px;
+    width: 271px;
+ }
+.paragrapha {
+color:#595959;
+text-decoration: none;
+}
+paragrapha:hover{
+    color: blue;
+}
+.everypimage {
+    color: #262626;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-bottom: 15px;
+     line-height: 1.6667;
+     margin-top: 34px;
+}
+.pfooter {
+    font-style: italic;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-size: 12px;
+    font-size: .8rem;
+    line-height: 1.5;
+}
+.figuren {
+    margin-left:0px;
+    padding-left:0px;
+}
+.stages {
+    height:100%;
+    width:100%;
+}
+h1 {
+    margin-left: 200px;
+    margin-right:400px;
+    margin-top:30px;
+    margin-bottom:0px;
+}
+.video {
+    margin-left:0px;
+    padding-left:0px;
+    margin-right:500px;
+    height: 500px;
+    width: 768px;
+    margin-bottom:40px;
+}
+.everypb {
+     margin-bottom:40px;
+     color: #262626;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     line-height: 1.6667;
+}
+.hrsubtitle {
+    width: 80px;
+    margin-left: 0px;
+    margin-bottom:-20px;
+}
