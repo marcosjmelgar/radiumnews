@@ -14,9 +14,11 @@
      width: 60px;
  }
  .nectarimage > .nectargan {border-radius: 50%;}
- 
- .nectar-gan > figure {
-     float: left;
+
+
+ .videoimage{
+     width: 768px;
+     height: 432px;
  }
  .firstspan {
      vertical-align: 10px;
@@ -53,7 +55,7 @@
      font-size: 16px;
      padding: 0px 0px 15px;
      font-family: Arial, Helvetica, sans-serif;
-     margin-top:80px;
+     margin-top:0px;
  }
  .secondparagraph {
     color: #595959;
@@ -81,7 +83,7 @@
      text-decoration: none;
  }
  a:hover{
-     color:red;
+     color: #ff0000;
  }
  hr {
      width: 80px;
@@ -89,23 +91,22 @@
  }
  h2 {
      padding-top: 8px 0px 0px;
-     font-weight: 300px;
+     font-weight: initial;
      font-family: Arial, Helvetica, sans-serif;
      color: #262626;
      font-size:32px;
  }
  .vaccineleft {
-     float: left;
-     margin: 10px 30px 30px 0px;
-     padding-right: 20px;
-    width: 271px;
- }
+    float:left;
+   width: 271px;
+   margin-right: 60px;
+}
 .paragrapha {
 color:#595959;
 text-decoration: none;
 }
 paragrapha:hover{
-    color: blue;
+    color: #0000ff;
 }
 .everypimage {
     color: #262626;
@@ -113,7 +114,7 @@ paragrapha:hover{
      font-family: Arial, Helvetica, sans-serif;
      margin-bottom: 15px;
      line-height: 1.6667;
-     margin-top: 34px;
+     margin-top: 25px;
 }
 .pfooter {
     font-style: italic;
@@ -141,10 +142,6 @@ h1 {
 .video {
     margin-left:0px;
     padding-left:0px;
-    margin-right:500px;
-    height: 500px;
-    width: 768px;
-    margin-bottom:40px;
 }
 .everypb {
      margin-bottom:40px;
@@ -157,4 +154,7 @@ h1 {
     width: 80px;
     margin-left: 0px;
     margin-bottom:-20px;
+}
+.hola2 {
+    display: inline
 }
