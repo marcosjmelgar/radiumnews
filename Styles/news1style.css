@@ -1,0 +1,80 @@
+.newsbody {
+    margin-left:200px;
+    margin-right:670px;
+}
+h1 {
+    font-family: helvetica, arial;
+    font-size: 45px;
+    line-height: 50px;
+    font-weight:100;
+    margin-bottom:0px;
+    margin-left: 200px;
+    margin-right:200px;
+}
+.downtitle {
+    font-size: 12px;
+    line-height: 16px;
+    color: #9b9b9b;
+    font-family:helvetica, arial;
+    margin-bottom:35px;
+}
+.linetitle {
+width: 900px;
+margin-bottom: 50px;
+margin-top: 50px;
+}
+
+.everyp {
+    font-family: helvetica, arial;
+    font-size: 15px;
+    line-height: 21px;
+    color: #000;
+}
+.pdownimage3 {
+    font-family: helvetica, arial;
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 16px;
+    color: #000;
+    width:900px;
+}
+.pdownimage {
+    font-family: helvetica, arial;
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 16px;
+    color: #000;
+}
+.pdownimage2 {
+    color: #9b9b9b;
+    font-family: helvetica,arial;
+    font-size: 12px;
+    line-height: 16px;
+}
+.everyl {
+    color: #000;
+}
+.lrelated{
+    text-decoration:none;
+    color:#000;
+}
+a:hover {
+    color:#9b9b9b;
+}
+.images {
+    margin-left:0px;
+}
+.subtitle {
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+.spanright {
+    margin-left:40px;
+    font-family: helvetica, arial;
+    font-size: 15px;
+    line-height: 21px;
+    color: #000;
+}
+.pepito2 {
+    display:inline-block;
+}
