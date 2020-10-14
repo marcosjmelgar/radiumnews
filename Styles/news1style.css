@@ -54,12 +54,12 @@ margin-top: 50px;
 .everyl {
     color: #000;
 }
+.everyl:hover{
+    color:#9b9b9b;
+}
 .lrelated{
     text-decoration:none;
     color:#000;
-}
-a:hover {
-    color:#9b9b9b;
 }
 .images {
     margin-left:0px;
@@ -69,12 +69,36 @@ a:hover {
     margin-bottom: -10px;
 }
 .spanright {
-    margin-left:40px;
-    font-family: helvetica, arial;
-    font-size: 15px;
-    line-height: 21px;
-    color: #000;
-}
-.pepito2 {
     display:inline-block;
 }
+.srelated {
+    display:inline-block;
+}
+.srelated {
+    display:inline-block;
+}
+.prelated {
+    display:inline-block;
+    width: 60px;
+    font-family: helvetica,arial;
+    font-size: 17px;
+    color:#4a4a4a;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+.prelated2 {
+    display:inline-block;
+    width: 300px;
+    margin-left: 120px;
+    font-size: 16px;
+    font-family:helvetica,arial;
+    margin-right: 0px;
+}
+.newl {
+    color: #000;
+    font-size: 20px;
+}
+.newl:hover{
+    color:#9b9b9b;
+}
+
